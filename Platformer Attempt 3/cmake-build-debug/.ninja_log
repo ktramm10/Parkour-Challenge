@@ -1,0 +1,22 @@
+# ninja log v5
+30	592	7384035484705646	CMakeFiles/Platformer_Attempt_3.dir/Geometry.cpp.obj	508f54940dec26d1
+32	617	7384035484955634	CMakeFiles/Platformer_Attempt_3.dir/Platform.cpp.obj	df1775fec4d3df0e
+5	538	7384513247207304	CMakeFiles/Platformer_Attempt_3.dir/main.cpp.obj	bac2ea16fc6adaa8
+17	474	7384035483520911	CMakeFiles/Platformer_Attempt_3.dir/Character.cpp.obj	b696c159967c4585
+539	939	7384513251111543	Platformer_Attempt_3.exe	17b2bc900835fa00
+19	557	7384035484344290	CMakeFiles/Platformer_Attempt_3.dir/Object.cpp.obj	e83e09a4120b93f7
+36	524	7384035484027045	CMakeFiles/Platformer_Attempt_3.dir/Collider.cpp.obj	e334a5f46f5c7f88
+22	584	7384035484625530	CMakeFiles/Platformer_Attempt_3.dir/Player.cpp.obj	767d672741757937
+12	519	7384507759244598	CMakeFiles/Platformer_Attempt_3.dir/Guide.cpp.obj	172ba5649dfa3bd8
+37	552	7384518606509636	CMakeFiles/Platformer_Attempt_3.dir/Object.cpp.obj	e83db7eb6af2001d
+55	558	7384518606580900	CMakeFiles/Platformer_Attempt_3.dir/Collider.cpp.obj	e29d246b0c396ed4
+33	568	7384518606674214	CMakeFiles/Platformer_Attempt_3.dir/Character.cpp.obj	9c7a0e15d48d5055
+44	621	7384518607220383	CMakeFiles/Platformer_Attempt_3.dir/Geometry.cpp.obj	7c74f0272d3b86ca
+51	648	7384518607488551	CMakeFiles/Platformer_Attempt_3.dir/Platform.cpp.obj	1e5b3a5e7f778a37
+27	659	7384518607608588	CMakeFiles/Platformer_Attempt_3.dir/main.cpp.obj	aa4c4956ba79c993
+40	681	7384518607830742	CMakeFiles/Platformer_Attempt_3.dir/Player.cpp.obj	bd12d51e74f053a8
+59	778	7384518608792050	CMakeFiles/Platformer_Attempt_3.dir/Guide.cpp.obj	5c6d0c8aa591a5b0
+778	1197	7384518612922181	Platformer_Attempt_3.exe	17b2bc900835fa00
+7	445	7384519381673344	CMakeFiles/Platformer_Attempt_3.dir/main.cpp.obj	aa4c4956ba79c993
+12	567	7384519382893343	CMakeFiles/Platformer_Attempt_3.dir/Guide.cpp.obj	5c6d0c8aa591a5b0
+567	986	7384519387009800	Platformer_Attempt_3.exe	17b2bc900835fa00
